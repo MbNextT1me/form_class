@@ -1,0 +1,2 @@
+0,Михаил,Горюнов,thecolouroutofspase@gmail.com,89148986707,Технологии,WebMoney,true,"Friday 15th of April 2022 01:59:32 AM",127.0.0.1
+0,Михаил,Горюнов,thecolouroutofspase@gmail.com,89148986707,Бизнес,WebMoney,true,"Monday 25th of April 2022 07:48:58 AM",127.0.0.1

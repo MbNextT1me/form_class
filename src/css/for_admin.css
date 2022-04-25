@@ -1,0 +1,46 @@
+
+
+.for_table {
+    padding: 0 1em;
+    margin-top: 5%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.3);
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr {
+    font-size: 0.85em;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+td,th {
+    text-align:center;
+    padding: 8px;
+}
+
+caption {
+    font-size: 1em;
+    line-height: 1;
+    text-transform: uppercase;
+    padding: 0.5em 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.admin__out {
+    font-size: 1em;
+    color: black;
+    position: absolute;
+    top: 25px;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+    text-decoration: none;
+}
+
+.btn__del {
+    font-size: 0.75em;
+}
